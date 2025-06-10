@@ -36,3 +36,10 @@ Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para
     streamlit run SimResDin.py
 
 4. Adicionalmente, este recurso está disponible de forma online en https://simresdin.streamlit.app
+
+
+## Autores
+
+Pablo López Osorio
+Salvador Canas Moreno
+
