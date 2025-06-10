@@ -27,15 +27,16 @@ Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para
 ### Pasos:
 1. Clonar el repositorio:
    git clone https://github.com/palopos/SimResDin.git
+   
    cd SimResDin
 
-2. Instalar dependencias:
+3. Instalar dependencias:
     pip install -r requirements.txt
 
-3. Ejecutar la aplicación:
+4. Ejecutar la aplicación:
     streamlit run SimResDin.py
 
-4. Adicionalmente, este recurso está disponible de forma online en https://simresdin.streamlit.app
+5. Adicionalmente, este recurso está disponible de forma online en https://simresdin.streamlit.app
 
 
 ## Autores
