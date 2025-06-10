@@ -34,3 +34,5 @@ Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para
 
 3. Ejecutar la aplicación:
     streamlit run SimResDin.py
+
+4. Adicionalmente, este recurso está disponible de forma online en https://simresdin.streamlit.app
