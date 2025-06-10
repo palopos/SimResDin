@@ -29,15 +29,8 @@ Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para
    git clone https://github.com/palopos/SimResDin.git
    cd SimResDin
 
-2. Crear y activar entorno virtual (recomendado):
-    python -m venv venv
-    # Windows:
-    venv\Scripts\activate
-    # Linux/Mac:
-    source venv/bin/activate
-
-3. Instalar dependencias:
+2. Instalar dependencias:
     pip install -r requirements.txt
 
-4. Ejecutar la aplicación:
+3. Ejecutar la aplicación:
     streamlit run SimResDin.py
