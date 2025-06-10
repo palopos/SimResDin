@@ -41,5 +41,6 @@ Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para
 ## Autores
 
 Pablo López Osorio
+
 Salvador Canas Moreno
 
