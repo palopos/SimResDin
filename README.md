@@ -1,9 +1,9 @@
-# 🚀 Simulador de Respuesta Dinámica (Sistemas 1° y 2° Orden)
+# Simulador de Respuesta Dinámica (Sistemas 1° y 2° Orden)
 
 
 Herramienta interactiva para análisis de sistemas dinámicos, desarrollada para la asignatura **Regulación Automática** de la Universidad de Cádiz.
 
-## 📌 Características Clave
+## Características Clave
 - **Simulación en tiempo real** de sistemas:
   - Primer orden: Parámetros `k` (ganancia) y `τ` (constante de tiempo)
   - Segundo orden: Parámetros `ωₙ` (frecuencia natural) y `ζ` (amortiguamiento)
